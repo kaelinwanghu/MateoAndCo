@@ -1,0 +1,1 @@
+i=input;i();s=i();print(0 if"lv"in s else 1 if"l"in s or"v"in s else 2)

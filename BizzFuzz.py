@@ -1,0 +1,1 @@
+import math;A,B,C,D=map(int,input().split());l=math.lcm(C,D);print(B//l-(A-1)//l)
